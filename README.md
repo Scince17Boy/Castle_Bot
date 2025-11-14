@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Castle_Bot/blob/main/assets/bot_image.jpg" alt="Castle Bot" height="300"> 
+    <img src="https://github.com/Scince17Boy/Castle_Bot/blob/main/assets/bot_image.jpg" alt="Castle Bot" height="300"> 
   </a> 
 </div>
 
@@ -20,7 +20,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Castle Bot repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/Scince17Boy/Castle_Bot/fork">
@@ -32,7 +32,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 
 ### Step 2: Get Pair Code
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+Deploy the bot and easily connect it to your WhatsApp account by pair code.
 
 <div align="center">
   <a href="https://knight-bot-paircode.onrender.com" target="_blank">
@@ -89,20 +89,20 @@ For further customization and setup guidance, click the button below:
 ## ⚙️ Features
 
 - **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
+- **Admin restricted usage**
+- **Games** like Tic-Tac-Toe
 - **Text-to-Speech** with `.tts`
 - **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+- **Anti-link detection**
+- **Warn and manage members** with admin control
 
 ---
 
 ## 📖 About
 
-The Castle WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The **Castle Bot** assists admins by providing automation tools for managing large WhatsApp groups.
 
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+It uses the **Baileys MD Library** and supports full **Multi-Device** features.
 
 ---
 
@@ -110,8 +110,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ### Prerequisites
 
-- Node.js installed on your system
-- Git installed (for cloning the repository)
+- Node.js installed
+- Git installed
 
 ### Step-by-Step Setup
 
@@ -119,8 +119,6 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/Scince17Boy/Castle_Bot.git
-    ```
-     ```bash
     cd Castle_Bot
     ```
 
@@ -136,62 +134,50 @@ It is lightweight and can be easily customized to add more commands as per your 
     node index.js
     ```
 
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+4. **Scan the QR / Enter Pair Code**  
+    Login using WhatsApp → Linked Devices
 
 ---
 
-
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Scince17Boy/Castle_Bot.git/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Scince17Boy/Castle_Bot.git/issues).
+Contributions are welcome!  
+Open issues here:  
+https://github.com/Scince17Boy/Castle_Bot/issues
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/Scince17Boy/Castle_Bot)!
+If you like this project, please ⭐ on GitHub:  
+https://github.com/Scince17Boy/Castle_Bot
 
+---
 
 ## Credits
 
-- [Professor](https://github.com/Scince17Boy)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- **Manoj** (Developer)
+- **Baileys** by adiwajshing
+- **TechGod143** (Pair Code)
+- **Dgxeon** (Pair Code)
 
 ---
 
 ## ⚠️ Important Warning
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+This bot is NOT an official WhatsApp bot.  
+Use at your own risk.
+
+---
 
 ## 📝 Legal
 
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2024 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+- Not affiliated with WhatsApp Inc.
+- Use responsibly.
+- Do not spam or misuse.

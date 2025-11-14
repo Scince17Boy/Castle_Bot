@@ -123,16 +123,6 @@ Perfect for:
 - Node.js (Latest recommended)
 - Git Installed
 
-### 📥 Step-by-Step Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Scince17Boy/Castle_Bot.git
-   cd Castle_Bot    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
-
----
 
 ## ⚙️ Features
 
@@ -167,6 +157,9 @@ It uses the **Baileys MD Library** and supports full **Multi-Device** features.
 
     ```bash
     git clone https://github.com/Scince17Boy/Castle_Bot.git
+    ```
+    
+    ```bash
     cd Castle_Bot
     ```
 
